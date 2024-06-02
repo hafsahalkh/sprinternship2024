@@ -46,7 +46,6 @@ To explore the survey data and visualizations, follow these steps:
 2. **Data Analysis:** Use the provided Python scripts to process the data.
 3. **Dashboard Access:** Open the PowerBI dashboard to view and interact with the visualized findings.
 
-For detailed instructions, refer to the project documentation included in this repository.
 
 ## Contributing
 
