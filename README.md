@@ -14,6 +14,7 @@ Over the course of three weeks, our team at LexisNexis Risk Solutions developed 
 ### 1. Survey Design and Implementation
 - **Survey Design:** We designed a detailed survey to capture a wide range of perspectives from diverse talent in computer sciences, software engineering, and data science.
 - **Platform:** The survey was deployed using Typeform to ensure an engaging and user-friendly experience for respondents.
+- **Survey Access** If you would like to access the survey created, you can click here: https://form.typeform.com/to/nXqOfD9s 
 
 ### 2. Data Extraction and API Development
 - **API Creation:** We employed PythonSQL and Fabric to create an API that automated the extraction of survey results from Typeform.
