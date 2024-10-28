@@ -42,17 +42,9 @@ This hands-on industry experience has equipped us with essential skills and know
 ## Getting Started
 
 To explore the survey data and visualizations, follow these steps:
-1. **API Setup:** Ensure PythonSQL and Fabric are correctly installed and configured to pull data from Typeform.
-2. **Data Analysis:** Use the provided Python scripts to process the data.
-3. **Dashboard Access:** Open the PowerBI dashboard to view and interact with the visualized findings.
-
-
-## Contributing
-
-We welcome contributions to improve and expand this project. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
+ **Dashboard Access:** Open the PowerBI dashboard to view and interact with the visualized findings. You can either view the screenshot provided in the FINAL-STEM-SURVEY-DASH-SS file, or directly download the dashboard to your own PowerBI desktop app.
 
 ## License
-
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 ## Acknowledgments
